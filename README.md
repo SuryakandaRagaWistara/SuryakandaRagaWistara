@@ -25,5 +25,5 @@ I'm passionate about **Artificial Intelligence, Blockchain, and Quantum Computin
 </p>
 
 ### **Reach me on**
-- <a href="https://www.linkedin.com/in/bintang-raga-pratama-634081241/">LinkedIn</a>  
+- LinkedIn : <a href="https://www.linkedin.com/in/bintang-raga-pratama-634081241/"></a>  
 - 📧 Email: **bintangraga152@gmail.com**  
