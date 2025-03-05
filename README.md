@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Bintang Raga Pratama  
 
-I'm passionate about **Artificial Intelligence, Blockchain,Web Devoloper and Quantum Computing**. I love exploring cutting-edge technologies and their real-world applications.  
+I'm passionate about **Artificial Intelligence,Blockchain,Web Devoloper and Quantum Computing**. I love exploring cutting-edge technologies and their real-world applications.  
 
 ### **Tech Stack**
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
