@@ -12,7 +12,6 @@ I'm passionate about **Artificial Intelligence, Blockchain, and Quantum Computin
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <a href="https://ethereum.org/en/developers/"><img align="left" alt="Ethereum" title="Ethereum" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" /></a>
 <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
-<a href="https://qiskit.org/"><img align="left" alt="Qiskit" title="Qiskit" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Qiskit_logo.png" /></a>
 <br><br>
 
 
