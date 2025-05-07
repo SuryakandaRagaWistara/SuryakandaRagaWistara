@@ -17,6 +17,5 @@ I'm passionate about **Artificial Intelligence,Blockchain,Web Devoloper and Quan
 </p>
 
 ### **Reach me on**
-- LinkedIn : <a href="https://www.linkedin.com/in/bintang-raga-pratama-634081241/">bintang-raga-pratama</a>  
 - Email: **garingguring6@gmail.com**  
 
