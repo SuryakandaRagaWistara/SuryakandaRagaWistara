@@ -14,6 +14,8 @@ I'm passionate about **Artificial Intelligence,Blockchain,Web Devoloper and Quan
 
 <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
 
+<a href="#"><img align="left" alt="Quantum" title="Quantum Computing" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Qiskit-Logo.svg" /></a>
+
 <br><br>
 
 
