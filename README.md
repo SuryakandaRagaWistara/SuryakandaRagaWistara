@@ -36,4 +36,4 @@ I'm passionate about **Artificial Intelligence,Blockchain,Web Devoloper and Quan
 
 ### **Reach me on**
 
-- Email: **garingguring6@gmail.com**  
+- Email: **bintangragapratama9@gmail.com**  
