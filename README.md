@@ -10,8 +10,7 @@ I love exploring cutting-edge technologies and their real-world applications.
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <a href="https://ethereum.org/en/developers/"><img align="left" alt="Ethereum" title="Ethereum" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" /></a>
 <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
-<a href="https://pennylane.ai/"><img align="left" alt="PennyLane" title="PennyLane" width="21px" src="https://assets-global.website-files.com/60f85f1372c8410e30d70b8a/60f85f1372c8411c57d70bfd_PennyLane%20Mark.png" /></a>
-
+<a href="https://pennylane.ai/"><img align="left" alt="PennyLane" title="PennyLane" width="21px" src="https://raw.githubusercontent.com/SuryakandaRagaWistara/SuryakandaRagaWistara/main/logo.svg" /></a>
 <br><br>
 
 
