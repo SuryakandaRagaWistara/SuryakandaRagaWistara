@@ -1,11 +1,12 @@
-### Hi! 👋 I'm Bintang Raga Pratama  
+### Hi! 👋 I'm Bintang Raga Pratama
 
-I'm passionate about **Artificial Intelligence,Blockchain,Web Devoloper and Quantum Computing**.I love exploring cutting-edge technologies and their real-world applications.  
+I'm passionate about **Artificial Intelligence, Blockchain, Web Devoloper, Quantum Computing, and Quantum Machine Learning (QML)**. I love exploring cutting-edge technologies and their real-world applications.
 
 ### **Tech Stack**
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <a href="https://ethereum.org/en/developers/"><img align="left" alt="Ethereum" title="Ethereum" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" /></a>
 <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
+<a href="https://qiskit.org/documentation/machine_learning/"><img align="left" alt="Quantum Machine Learning (QML)" title="Quantum Machine Learning (QML)" width="21px" src="https://qiskit.org/images/qiskit-logo-dark.svg" /></a>
 <br><br>
 
 ### **GitHub Stats**
@@ -17,5 +18,4 @@ I'm passionate about **Artificial Intelligence,Blockchain,Web Devoloper and Quan
 </p>
 
 ### **Reach me on**
-- Email: **garingguring6@gmail.com**  
-
+- Email: **garingguring6@gmail.com**
