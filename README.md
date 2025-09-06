@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Bintang Raga Pratama  
 
-I'm passionate about **Artificial Intelligence, Blockchain, Web Development and Quantum Computing**.  
-I love exploring cutting-edge technologies and their real-world applications.  
+I'm an aspiring **AI Engineer** with a strong passion for **Artificial Intelligence, Blockchain, Web Development, and Quantum Computing**.  
+I love exploring cutting-edge technologies and turning innovative ideas into real-world applications.  
 
 ---
 
