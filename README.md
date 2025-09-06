@@ -7,19 +7,13 @@ I love exploring cutting-edge technologies and their real-world applications.
 
 ### **Tech Stack**
 
-<!-- Programming -->
-<a href="#"><img align="left" alt="Python" title="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-
-<!-- Blockchain -->
-<a href="https://ethereum.org/en/developers/"><img align="left" alt="Ethereum" title="Ethereum" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" /></a>
-
-<!-- AI / ML -->
-<a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
-
-<!-- Quantum -->
-<a href="https://quantum-computing.ibm.com/"><img align="left" alt="Qiskit" title="Quantum Computing (Qiskit)" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Qiskit-Logo.svg" /></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
+<a href="https://ethereum.org/en/developers/"><img align="left" alt="Ethereum" title="Ethereum" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" /></a>
+<a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
+<a href="https://pennylane.ai/"><img align="left" alt="PennyLane" title="PennyLane" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/PennyLane_logo.png" /></a>
 
 <br><br>
+
 
 ---
 
