@@ -14,6 +14,8 @@ I'm passionate about **Artificial Intelligence,Blockchain,Web Devoloper and Quan
 
 <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
 
+<img align="left" alt="Qiskit" title="Quantum Computing (Qiskit)" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Qiskit-Logo.svg" />
+
 <br><br>
 
 
@@ -36,4 +38,4 @@ I'm passionate about **Artificial Intelligence,Blockchain,Web Devoloper and Quan
 
 ### **Reach me on**
 
-- Email: **bintangragapratama9@gmail.com**  " kasih logo di code ini 
+- Email: **bintangragapratama9@gmail.com**
