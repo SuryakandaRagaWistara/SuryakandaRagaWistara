@@ -12,7 +12,7 @@ I love exploring cutting-edge technologies and their real-world applications.
 <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
 <a href="https://pennylane.ai/"><img align="left" alt="PennyLane" title="PennyLane" width="21px" src="https://raw.githubusercontent.com/SuryakandaRagaWistara/SuryakandaRagaWistara/main/logo.svg" /></a>
 
-
+<br><br>
 ---
 
 ### **GitHub Stats**
